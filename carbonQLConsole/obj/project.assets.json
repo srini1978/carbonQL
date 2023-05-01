@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "carbonQLBackend/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/carbonQLBackend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/carbonQLBackend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "carbonQLBackend/1.0.0": {
+      "type": "project",
+      "path": "../carbonQLBackend/carbonQLBackend.csproj",
+      "msbuildProject": "../carbonQLBackend/carbonQLBackend.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "carbonQLBackend >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\srini\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\srini\\GSF\\carbonQL\\carbonQLConsole\\carbonQLConsole.csproj",
+      "projectName": "carbonQLConsole",
+      "projectPath": "C:\\Users\\srini\\GSF\\carbonQL\\carbonQLConsole\\carbonQLConsole.csproj",
+      "packagesPath": "C:\\Users\\srini\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\srini\\GSF\\carbonQL\\carbonQLConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\srini\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\srini\\GSF\\carbonQL\\carbonQLBackend\\carbonQLBackend.csproj": {
+              "projectPath": "C:\\Users\\srini\\GSF\\carbonQL\\carbonQLBackend\\carbonQLBackend.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

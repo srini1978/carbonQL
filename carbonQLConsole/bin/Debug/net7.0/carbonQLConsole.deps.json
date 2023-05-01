@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "carbonQLConsole/1.0.0": {
+        "dependencies": {
+          "carbonQLBackend": "1.0.0"
+        },
+        "runtime": {
+          "carbonQLConsole.dll": {}
+        }
+      },
+      "carbonQLBackend/1.0.0": {
+        "runtime": {
+          "carbonQLBackend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "carbonQLConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "carbonQLBackend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\obj\Debug\net7.0\carbonQLBackend.csproj.AssemblyReference.cache
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\obj\Debug\net7.0\carbonQLBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\obj\Debug\net7.0\carbonQLBackend.AssemblyInfoInputs.cache
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\obj\Debug\net7.0\carbonQLBackend.AssemblyInfo.cs
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\obj\Debug\net7.0\carbonQLBackend.csproj.CoreCompileInputs.cache
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\bin\Debug\net7.0\carbonQLBackend.deps.json
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\bin\Debug\net7.0\carbonQLBackend.dll
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\bin\Debug\net7.0\carbonQLBackend.pdb
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\obj\Debug\net7.0\carbonQLBackend.dll
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\obj\Debug\net7.0\refint\carbonQLBackend.dll
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\obj\Debug\net7.0\carbonQLBackend.pdb
+C:\Users\srini\GSF\carbonQL\carbonQLBackend\obj\Debug\net7.0\ref\carbonQLBackend.dll
